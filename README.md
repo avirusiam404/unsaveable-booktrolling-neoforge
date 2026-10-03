@@ -6,3 +6,5 @@ This mod was lowkey stolen from him im sorry captainsolo if u want i can remove 
 Why is this not a fork? Welp because neoforge is different from fabric and i had to recode this thing all over
 
 Download at [Releases](https://github.com/avirusiam404/unsaveable-booktrolling-neoforge/releases/latest)
+
+Compiled using ./gradlew clean build
