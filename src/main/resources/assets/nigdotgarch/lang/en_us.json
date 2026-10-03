@@ -1,0 +1,13 @@
+{
+  "itemGroup.nigdotgarch": "Example Mod Tab",
+  "block.nigdotgarch.example_block": "Example Block",
+  "item.nigdotgarch.example_item": "Example Item",
+
+  "nigdotgarch.configuration.title": "nigDOTgarch Configs",
+  "nigdotgarch.configuration.section.nigdotgarch.common.toml": "nigDOTgarch Configs",
+  "nigdotgarch.configuration.section.nigdotgarch.common.toml.title": "nigDOTgarch Configs",
+  "nigdotgarch.configuration.items": "Item List",
+  "nigdotgarch.configuration.logDirtBlock": "Log Dirt Block",
+  "nigdotgarch.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nigdotgarch.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "nig.garch.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BookEditScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
